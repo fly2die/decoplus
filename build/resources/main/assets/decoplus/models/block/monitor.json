@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/monitor",
+  "textures": {
+    "all": "decoplus:block/monitor",
+    "particle": "decoplus:block/monitor",
+    "0": "decoplus:block/monitor"
+  }
+}

@@ -25,6 +25,10 @@ import java.lang.invoke.MethodHandle;
 import it.unimi.dsi.fastutil.ints.IntObjectPair;
 import it.unimi.dsi.fastutil.ints.IntObjectImmutablePair;
 
+import com.f2d.decoplus.init.DecoplusModTabs;
+import com.f2d.decoplus.init.DecoplusModItems;
+import com.f2d.decoplus.init.DecoplusModBlocks;
+
 public class DecoplusMod implements ModInitializer {
 	public static final Logger LOGGER = LogManager.getLogger(DecoplusMod.class);
 	public static final String MODID = "decoplus";
@@ -34,6 +38,9 @@ public class DecoplusMod implements ModInitializer {
 		// Start of user code block mod constructor
 		// End of user code block mod constructor
 		LOGGER.info("Initializing DecoplusMod");
+		DecoplusModTabs.load();
+		DecoplusModBlocks.load();
+		DecoplusModItems.load();
 		tick();
 		// Start of user code block mod init
 		// End of user code block mod init

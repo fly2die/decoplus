@@ -4,13 +4,13 @@
   "version": "1.0.0",
   "name": "Deco+",
   "authors": [
-    "MCreator"
+    "F2D"
   ],
   "contact": {
     "homepage": "https://mcreator.net",
     "sources": ""
   },
-  "license": "Not specified",
+  "license": "All Rights Reserved",
   "environment": "*",
   "entrypoints": {
     "main": [
