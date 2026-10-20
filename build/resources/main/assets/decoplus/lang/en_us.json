@@ -1,5 +1,10 @@
 {
   "item_group.decoplus.decoplus": "Decoplus",
   "item.decoplus.laptop": "Laptop",
-  "item.decoplus.monitor": "Monitor"
+  "item.decoplus.monitor": "Monitor",
+  "item.decoplus.computer": "Computer",
+  "item.decoplus.imonitor": "iMonitor",
+  "item.decoplus.vmonitor": "vMonitor",
+  "item.decoplus.pad": "Pad",
+  "item.decoplus.wheel_block": "Wheel Block"
 }

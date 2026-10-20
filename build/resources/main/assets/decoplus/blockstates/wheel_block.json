@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "decoplus:block/wheel_block"
+    },
+    "facing=east": {
+      "model": "decoplus:block/wheel_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "decoplus:block/wheel_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "decoplus:block/wheel_block",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "decoplus:block/wheel_block",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "decoplus:block/wheel_block",
+      "x": 90
+    }
+  }
+}

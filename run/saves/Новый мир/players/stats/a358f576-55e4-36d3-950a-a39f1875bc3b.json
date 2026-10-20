@@ -1,0 +1,17 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "decoplus:computer": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 597,
+      "minecraft:walk_one_cm": 2912,
+      "minecraft:total_world_time": 606,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 597,
+      "minecraft:jump": 3,
+      "minecraft:time_since_death": 597
+    }
+  },
+  "DataVersion": 5023
+}

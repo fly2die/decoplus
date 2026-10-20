@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 520,
+      "minecraft:time_since_rest": 970,
+      "minecraft:walk_one_cm": 6610,
+      "minecraft:total_world_time": 986,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 1506,
+      "minecraft:sneak_time": 6,
+      "minecraft:play_time": 970,
+      "minecraft:jump": 19,
+      "minecraft:time_since_death": 970,
+      "minecraft:drop": 1
+    },
+    "minecraft:dropped": {
+      "decoplus:imonitor": 1
+    },
+    "minecraft:used": {
+      "decoplus:imonitor": 2
+    },
+    "minecraft:picked_up": {
+      "decoplus:imonitor": 1
+    }
+  },
+  "DataVersion": 5023
+}

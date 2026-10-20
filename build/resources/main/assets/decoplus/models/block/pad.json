@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/pad",
+  "textures": {
+    "all": "decoplus:block/pad",
+    "particle": "decoplus:block/pad",
+    "0": "decoplus:block/pad"
+  }
+}

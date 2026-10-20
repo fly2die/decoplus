@@ -170,7 +170,7 @@
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
-    "soundOnStep": "STONE",
+    "soundOnStep": "CANDLE",
     "isCustomSoundType": false,
     "breakSound": "",
     "fallSound": "",

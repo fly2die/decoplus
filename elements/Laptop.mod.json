@@ -41,18 +41,9 @@
         "mx": 2.0,
         "my": 0.0,
         "mz": 10.0,
-        "Mx": 14.0,
-        "My": 1.0,
-        "Mz": 18.0,
-        "subtract": false
-      },
-      {
-        "mx": 2.25,
-        "my": 1.1,
-        "mz": 10.25,
-        "Mx": 13.75,
-        "My": 1.1,
-        "Mz": 17.75,
+        "Mx": 15.0,
+        "My": 8.0,
+        "Mz": 11.0,
         "subtract": false
       },
       {
@@ -143,7 +134,7 @@
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
-    "soundOnStep": "METAL",
+    "soundOnStep": "CANDLE",
     "isCustomSoundType": false,
     "breakSound": "",
     "fallSound": "",

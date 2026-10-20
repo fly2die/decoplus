@@ -1,0 +1,51 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-10-20 10:44:37 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 10:46:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool_stairs": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 10:46:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-20 10:44:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-10-20 10:46:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 10:46:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 10:46:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 10:46:40 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}

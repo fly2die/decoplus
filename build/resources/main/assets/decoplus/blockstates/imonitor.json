@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "decoplus:block/imonitor"
+    },
+    "facing=east": {
+      "model": "decoplus:block/imonitor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "decoplus:block/imonitor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "decoplus:block/imonitor",
+      "y": 270
+    }
+  }
+}

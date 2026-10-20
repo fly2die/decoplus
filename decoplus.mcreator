@@ -43,17 +43,117 @@
           "src/main/resources/data/decoplus/loot_table/blocks/monitor.json"
         ]
       }
+    },
+    {
+      "name": "Computer",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "computer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/decoplus/models/item/computer.json",
+          "src/main/java/com/f2d/decoplus/block/ComputerBlock.java",
+          "src/main/resources/assets/decoplus/models/block/computer.json",
+          "src/main/resources/assets/decoplus/blockstates/computer.json",
+          "src/main/resources/data/decoplus/loot_table/blocks/computer.json",
+          "src/main/resources/assets/decoplus/items/computer.json"
+        ]
+      }
+    },
+    {
+      "name": "Imonitor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "imonitor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/loot_table/blocks/imonitor.json",
+          "src/main/resources/assets/decoplus/models/block/imonitor.json",
+          "src/main/resources/assets/decoplus/items/imonitor.json",
+          "src/main/java/com/f2d/decoplus/block/ImonitorBlock.java",
+          "src/main/resources/assets/decoplus/blockstates/imonitor.json",
+          "src/main/resources/assets/decoplus/models/item/imonitor.json"
+        ]
+      }
+    },
+    {
+      "name": "Vmonitor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vmonitor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/decoplus/models/item/vmonitor.json",
+          "src/main/resources/assets/decoplus/models/block/vmonitor.json",
+          "src/main/java/com/f2d/decoplus/block/VmonitorBlock.java",
+          "src/main/resources/data/decoplus/loot_table/blocks/vmonitor.json",
+          "src/main/resources/assets/decoplus/blockstates/vmonitor.json",
+          "src/main/resources/assets/decoplus/items/vmonitor.json"
+        ]
+      }
+    },
+    {
+      "name": "Pad",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pad",
+      "metadata": {
+        "files": [
+          "src/main/java/com/f2d/decoplus/block/PadBlock.java",
+          "src/main/resources/assets/decoplus/items/pad.json",
+          "src/main/resources/data/decoplus/loot_table/blocks/pad.json",
+          "src/main/resources/assets/decoplus/models/item/pad.json",
+          "src/main/resources/assets/decoplus/blockstates/pad.json",
+          "src/main/resources/assets/decoplus/models/block/pad.json"
+        ]
+      }
+    },
+    {
+      "name": "WheelBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wheel_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/decoplus/blockstates/wheel_block.json",
+          "src/main/java/com/f2d/decoplus/block/WheelBlockBlock.java",
+          "src/main/resources/assets/decoplus/items/wheel_block.json",
+          "src/main/resources/assets/decoplus/models/block/wheel_block.json",
+          "src/main/resources/assets/decoplus/models/item/wheel_block.json",
+          "src/main/resources/data/decoplus/loot_table/blocks/wheel_block.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
-  "tab_element_order": {},
+  "tab_element_order": {
+    "CUSTOM:Decoplus": [
+      "Laptop",
+      "Imonitor",
+      "Vmonitor",
+      "Monitor",
+      "Computer",
+      "Pad",
+      "WheelBlock"
+    ]
+  },
   "language_map": {
     "en_us": {
       "item_group.decoplus.decoplus": "Decoplus",
       "item.decoplus.laptop": "Laptop",
-      "item.decoplus.monitor": "Monitor"
+      "item.decoplus.monitor": "Monitor",
+      "item.decoplus.computer": "Computer",
+      "item.decoplus.imonitor": "iMonitor",
+      "item.decoplus.vmonitor": "vMonitor",
+      "item.decoplus.pad": "Pad",
+      "item.decoplus.wheel_block": "Wheel Block"
     }
   },
   "metadata": {

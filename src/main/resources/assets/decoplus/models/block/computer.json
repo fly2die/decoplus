@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/computer",
+  "textures": {
+    "all": "decoplus:block/computer",
+    "particle": "decoplus:block/computer",
+    "0": "decoplus:block/computer"
+  }
+}

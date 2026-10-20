@@ -12,17 +12,26 @@ import net.minecraft.core.registries.Registries;
 
 import java.util.function.Function;
 
-import com.f2d.decoplus.block.MonitorBlock;
-import com.f2d.decoplus.block.LaptopBlock;
+import com.f2d.decoplus.block.*;
 import com.f2d.decoplus.DecoplusMod;
 
 public class DecoplusModBlocks {
 	public static Block LAPTOP;
 	public static Block MONITOR;
+	public static Block COMPUTER;
+	public static Block IMONITOR;
+	public static Block VMONITOR;
+	public static Block PAD;
+	public static Block WHEEL_BLOCK;
 
 	public static void load() {
 		LAPTOP = register("laptop", LaptopBlock::new);
 		MONITOR = register("monitor", MonitorBlock::new);
+		COMPUTER = register("computer", ComputerBlock::new);
+		IMONITOR = register("imonitor", ImonitorBlock::new);
+		VMONITOR = register("vmonitor", VmonitorBlock::new);
+		PAD = register("pad", PadBlock::new);
+		WHEEL_BLOCK = register("wheel_block", WheelBlockBlock::new);
 	}
 
 	// Start of user code block custom blocks

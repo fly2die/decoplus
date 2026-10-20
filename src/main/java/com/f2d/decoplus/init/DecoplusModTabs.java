@@ -3,7 +3,6 @@
  */
 package com.f2d.decoplus.init;
 
-import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.resources.ResourceKey;
@@ -20,9 +19,14 @@ public class DecoplusModTabs {
 
 	public static void load() {
 		Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, TAB_DECOPLUS,
-				CreativeModeTab.builder(CreativeModeTab.Row.TOP, 0).title(Component.translatable("item_group.decoplus.decoplus")).icon(() -> new ItemStack(Blocks.AIR)).displayItems((parameters, tabData) -> {
+				CreativeModeTab.builder(CreativeModeTab.Row.TOP, 0).title(Component.translatable("item_group.decoplus.decoplus")).icon(() -> new ItemStack(DecoplusModBlocks.COMPUTER)).displayItems((parameters, tabData) -> {
 					tabData.accept(DecoplusModBlocks.LAPTOP.asItem());
+					tabData.accept(DecoplusModBlocks.IMONITOR.asItem());
+					tabData.accept(DecoplusModBlocks.VMONITOR.asItem());
 					tabData.accept(DecoplusModBlocks.MONITOR.asItem());
+					tabData.accept(DecoplusModBlocks.COMPUTER.asItem());
+					tabData.accept(DecoplusModBlocks.PAD.asItem());
+					tabData.accept(DecoplusModBlocks.WHEEL_BLOCK.asItem());
 				}).build());
 	}
 }

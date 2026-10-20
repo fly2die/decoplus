@@ -18,10 +18,20 @@ import com.f2d.decoplus.DecoplusMod;
 public class DecoplusModItems {
 	public static Item LAPTOP;
 	public static Item MONITOR;
+	public static Item COMPUTER;
+	public static Item IMONITOR;
+	public static Item VMONITOR;
+	public static Item PAD;
+	public static Item WHEEL_BLOCK;
 
 	public static void load() {
 		LAPTOP = block(DecoplusModBlocks.LAPTOP, "laptop");
 		MONITOR = block(DecoplusModBlocks.MONITOR, "monitor");
+		COMPUTER = block(DecoplusModBlocks.COMPUTER, "computer");
+		IMONITOR = block(DecoplusModBlocks.IMONITOR, "imonitor");
+		VMONITOR = block(DecoplusModBlocks.VMONITOR, "vmonitor");
+		PAD = block(DecoplusModBlocks.PAD, "pad");
+		WHEEL_BLOCK = block(DecoplusModBlocks.WHEEL_BLOCK, "wheel_block");
 	}
 
 	// Start of user code block custom items

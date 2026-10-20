@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/imonitor",
+  "textures": {
+    "all": "decoplus:block/imonitor",
+    "particle": "decoplus:block/imonitor",
+    "0": "decoplus:block/imonitor"
+  }
+}

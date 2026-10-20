@@ -28,17 +28,17 @@ public class LaptopBlock extends Block implements SimpleWaterloggedBlock {
 	private final Function<BlockState, VoxelShape> shapes = this.makeShapes();
 
 	public LaptopBlock(BlockBehaviour.Properties properties) {
-		super(properties.sound(SoundType.METAL).strength(1f, 10f).noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
+		super(properties.sound(SoundType.CANDLE).strength(1f, 10f).noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
 		this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH).setValue(WATERLOGGED, false));
 	}
 
 	private Function<BlockState, VoxelShape> makeShapes() {
 		return this.getShapeForEachState(state -> {
 			return switch (state.getValue(FACING)) {
-				case NORTH -> Shapes.or(box(2, 0, 2, 14, 1, 10), box(2, 0, 10, 14, 1, 18));
-				case EAST -> Shapes.or(box(6, 0, 2, 14, 1, 14), box(-2, 0, 2, 6, 1, 14));
-				case WEST -> Shapes.or(box(2, 0, 2, 10, 1, 14), box(10, 0, 2, 18, 1, 14));
-				default -> Shapes.or(box(2, 0, 6, 14, 1, 14), box(2, 0, -2, 14, 1, 6));
+				case NORTH -> Shapes.or(box(2, 0, 2, 14, 1, 10), box(2, 0, 10, 15, 8, 11));
+				case EAST -> Shapes.or(box(6, 0, 2, 14, 1, 14), box(5, 0, 2, 6, 8, 15));
+				case WEST -> Shapes.or(box(2, 0, 2, 10, 1, 14), box(10, 0, 1, 11, 8, 14));
+				default -> Shapes.or(box(2, 0, 6, 14, 1, 14), box(1, 0, 5, 14, 8, 6));
 			};
 		}, WATERLOGGED);
 	}

@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 266,
+      "minecraft:time_since_rest": 412,
+      "minecraft:walk_one_cm": 1331,
+      "minecraft:total_world_time": 420,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 173,
+      "minecraft:play_time": 412,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 412
+    },
+    "minecraft:used": {
+      "decoplus:computer": 1,
+      "minecraft:pale_oak_planks": 1
+    }
+  },
+  "DataVersion": 5023
+}
