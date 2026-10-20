@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 3133,
+      "minecraft:time_since_rest": 3087,
+      "minecraft:walk_one_cm": 19862,
+      "minecraft:total_world_time": 3095,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 6035,
+      "minecraft:sneak_time": 11,
+      "minecraft:play_time": 3087,
+      "minecraft:jump": 35,
+      "minecraft:time_since_death": 3087
+    },
+    "minecraft:used": {
+      "minecraft:red_wool": 1,
+      "minecraft:cyan_wool": 1,
+      "minecraft:light_blue_wool": 1,
+      "minecraft:white_concrete": 30,
+      "minecraft:white_wool_slab": 1,
+      "decoplus:washer": 2,
+      "minecraft:gray_carpet": 11,
+      "decoplus:electric_stove": 3,
+      "minecraft:orange_wool": 1,
+      "minecraft:purple_wool": 5,
+      "minecraft:green_wool": 1,
+      "minecraft:lime_wool": 1,
+      "minecraft:yellow_wool": 1,
+      "minecraft:blue_wool": 1
+    }
+  },
+  "DataVersion": 5023
+}

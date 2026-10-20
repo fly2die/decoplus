@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "decoplus:block/electric_stove"
+    },
+    "facing=east": {
+      "model": "decoplus:block/electric_stove",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "decoplus:block/electric_stove",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "decoplus:block/electric_stove",
+      "y": 270
+    }
+  }
+}

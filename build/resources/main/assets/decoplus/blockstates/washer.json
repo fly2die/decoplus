@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "decoplus:block/washer"
+    },
+    "facing=east": {
+      "model": "decoplus:block/washer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "decoplus:block/washer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "decoplus:block/washer",
+      "y": 270
+    }
+  }
+}

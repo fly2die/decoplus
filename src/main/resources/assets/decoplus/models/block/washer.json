@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/washer",
+  "textures": {
+    "all": "decoplus:block/washer",
+    "particle": "decoplus:block/washer",
+    "0": "decoplus:block/washer"
+  }
+}

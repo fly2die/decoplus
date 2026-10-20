@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/electric_stove",
+  "textures": {
+    "all": "decoplus:block/electric_stove",
+    "particle": "decoplus:block/electric_stove",
+    "0": "decoplus:block/electric_stove"
+  }
+}

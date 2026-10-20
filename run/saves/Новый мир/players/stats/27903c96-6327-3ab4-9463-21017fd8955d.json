@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "decoplus:nuke": 1,
+      "minecraft:light_blue_wool": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 554,
+      "minecraft:time_since_rest": 1110,
+      "minecraft:walk_one_cm": 6761,
+      "minecraft:total_world_time": 1120,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 412,
+      "minecraft:crouch_one_cm": 107,
+      "minecraft:sneak_time": 54,
+      "minecraft:play_time": 1110,
+      "minecraft:jump": 9,
+      "minecraft:time_since_death": 1110
+    }
+  },
+  "DataVersion": 5023
+}

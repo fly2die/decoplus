@@ -1,0 +1,321 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-10-20 15:16:08 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blue_wool_slab": {
+    "criteria": {
+      "has_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool_stairs": {
+    "criteria": {
+      "has_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool_slab": {
+    "criteria": {
+      "has_cyan_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool_stairs": {
+    "criteria": {
+      "has_cyan_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool_slab": {
+    "criteria": {
+      "has_green_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool_stairs": {
+    "criteria": {
+      "has_green_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool_slab": {
+    "criteria": {
+      "has_light_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool_stairs": {
+    "criteria": {
+      "has_light_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool_slab": {
+    "criteria": {
+      "has_lime_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool_stairs": {
+    "criteria": {
+      "has_lime_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool_slab": {
+    "criteria": {
+      "has_orange_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool_stairs": {
+    "criteria": {
+      "has_orange_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool_slab": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 15:16:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool_stairs": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 15:16:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool_stairs": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_slab": {
+    "criteria": {
+      "has_white_concrete": "2026-10-20 15:17:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-10-20 15:17:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_stairs": {
+    "criteria": {
+      "has_white_concrete": "2026-10-20 15:17:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-10-20 15:17:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool_slab": {
+    "criteria": {
+      "has_yellow_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool_stairs": {
+    "criteria": {
+      "has_yellow_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-20 15:16:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2026-10-20 15:18:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-10-20 15:16:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 15:16:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 15:16:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 15:16:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-10-20 15:18:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_cushion": {
+    "criteria": {
+      "has_white_wool_slab": "2026-10-20 15:17:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2026-10-20 15:18:07 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}

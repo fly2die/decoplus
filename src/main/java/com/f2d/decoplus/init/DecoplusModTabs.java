@@ -26,7 +26,9 @@ public class DecoplusModTabs {
 					tabData.accept(DecoplusModBlocks.MONITOR.asItem());
 					tabData.accept(DecoplusModBlocks.COMPUTER.asItem());
 					tabData.accept(DecoplusModBlocks.PAD.asItem());
-					tabData.accept(DecoplusModBlocks.WHEEL_BLOCK.asItem());
+					tabData.accept(DecoplusModBlocks.NUKE.asItem());
+					tabData.accept(DecoplusModBlocks.WASHER.asItem());
+					tabData.accept(DecoplusModBlocks.ELECTRIC_STOVE.asItem());
 				}).build());
 	}
 }

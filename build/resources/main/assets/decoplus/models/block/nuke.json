@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/nuke",
+  "textures": {
+    "all": "decoplus:block/nuke",
+    "particle": "decoplus:block/nuke",
+    "0": "decoplus:block/nuke"
+  }
+}

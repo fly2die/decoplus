@@ -22,7 +22,9 @@ public class DecoplusModItems {
 	public static Item IMONITOR;
 	public static Item VMONITOR;
 	public static Item PAD;
-	public static Item WHEEL_BLOCK;
+	public static Item NUKE;
+	public static Item WASHER;
+	public static Item ELECTRIC_STOVE;
 
 	public static void load() {
 		LAPTOP = block(DecoplusModBlocks.LAPTOP, "laptop");
@@ -31,7 +33,9 @@ public class DecoplusModItems {
 		IMONITOR = block(DecoplusModBlocks.IMONITOR, "imonitor");
 		VMONITOR = block(DecoplusModBlocks.VMONITOR, "vmonitor");
 		PAD = block(DecoplusModBlocks.PAD, "pad");
-		WHEEL_BLOCK = block(DecoplusModBlocks.WHEEL_BLOCK, "wheel_block");
+		NUKE = block(DecoplusModBlocks.NUKE, "nuke");
+		WASHER = block(DecoplusModBlocks.WASHER, "washer");
+		ELECTRIC_STOVE = block(DecoplusModBlocks.ELECTRIC_STOVE, "electric_stove");
 	}
 
 	// Start of user code block custom items

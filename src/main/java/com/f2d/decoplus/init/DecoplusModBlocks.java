@@ -22,7 +22,9 @@ public class DecoplusModBlocks {
 	public static Block IMONITOR;
 	public static Block VMONITOR;
 	public static Block PAD;
-	public static Block WHEEL_BLOCK;
+	public static Block NUKE;
+	public static Block WASHER;
+	public static Block ELECTRIC_STOVE;
 
 	public static void load() {
 		LAPTOP = register("laptop", LaptopBlock::new);
@@ -31,7 +33,9 @@ public class DecoplusModBlocks {
 		IMONITOR = register("imonitor", ImonitorBlock::new);
 		VMONITOR = register("vmonitor", VmonitorBlock::new);
 		PAD = register("pad", PadBlock::new);
-		WHEEL_BLOCK = register("wheel_block", WheelBlockBlock::new);
+		NUKE = register("nuke", NukeBlock::new);
+		WASHER = register("washer", WasherBlock::new);
+		ELECTRIC_STOVE = register("electric_stove", ElectricStoveBlock::new);
 	}
 
 	// Start of user code block custom blocks
