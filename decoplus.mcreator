@@ -162,6 +162,57 @@
           "src/main/resources/assets/decoplus/items/electric_stove.json"
         ]
       }
+    },
+    {
+      "name": "Fridge",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fridge",
+      "metadata": {
+        "files": [
+          "src/main/java/com/f2d/decoplus/block/FridgeBlock.java",
+          "src/main/resources/assets/decoplus/blockstates/fridge.json",
+          "src/main/resources/assets/decoplus/models/block/fridge.json",
+          "src/main/resources/data/decoplus/loot_table/blocks/fridge.json",
+          "src/main/resources/assets/decoplus/models/item/fridge.json",
+          "src/main/resources/assets/decoplus/items/fridge.json"
+        ]
+      }
+    },
+    {
+      "name": "Televisor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "televisor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/loot_table/blocks/televisor.json",
+          "src/main/resources/assets/decoplus/models/block/televisor.json",
+          "src/main/java/com/f2d/decoplus/block/TelevisorBlock.java",
+          "src/main/resources/assets/decoplus/models/item/televisor.json",
+          "src/main/resources/assets/decoplus/items/televisor.json",
+          "src/main/resources/assets/decoplus/blockstates/televisor.json"
+        ]
+      }
+    },
+    {
+      "name": "SmartTV",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smart_tv",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/decoplus/blockstates/smart_tv.json",
+          "src/main/java/com/f2d/decoplus/block/SmartTVBlock.java",
+          "src/main/resources/data/decoplus/loot_table/blocks/smart_tv.json",
+          "src/main/resources/assets/decoplus/models/block/smart_tv.json",
+          "src/main/resources/assets/decoplus/models/item/smart_tv.json",
+          "src/main/resources/assets/decoplus/items/smart_tv.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -177,7 +228,10 @@
       "Pad",
       "Nuke",
       "Washer",
-      "ElectricStove"
+      "ElectricStove",
+      "Fridge",
+      "Televisor",
+      "SmartTV"
     ]
   },
   "language_map": {
@@ -191,7 +245,10 @@
       "item.decoplus.pad": "Pad",
       "item.decoplus.nuke": "Nuke",
       "item.decoplus.washer": "Washer",
-      "item.decoplus.electric_stove": "Electric Stove"
+      "item.decoplus.electric_stove": "Electric Stove",
+      "item.decoplus.fridge": "Fridge",
+      "item.decoplus.televisor": "Televisor",
+      "item.decoplus.smart_tv": "Smart TV"
     }
   },
   "metadata": {
@@ -228,7 +285,7 @@
   "workspaceSettings": {
     "modid": "decoplus",
     "modName": "Deco+",
-    "version": "1.0.0",
+    "version": "5.0.3",
     "author": "F2D",
     "websiteURL": "https://mcreator.net",
     "license": "All Rights Reserved",

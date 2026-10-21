@@ -25,6 +25,9 @@ public class DecoplusModBlocks {
 	public static Block NUKE;
 	public static Block WASHER;
 	public static Block ELECTRIC_STOVE;
+	public static Block FRIDGE;
+	public static Block TELEVISOR;
+	public static Block SMART_TV;
 
 	public static void load() {
 		LAPTOP = register("laptop", LaptopBlock::new);
@@ -36,6 +39,9 @@ public class DecoplusModBlocks {
 		NUKE = register("nuke", NukeBlock::new);
 		WASHER = register("washer", WasherBlock::new);
 		ELECTRIC_STOVE = register("electric_stove", ElectricStoveBlock::new);
+		FRIDGE = register("fridge", FridgeBlock::new);
+		TELEVISOR = register("televisor", TelevisorBlock::new);
+		SMART_TV = register("smart_tv", SmartTVBlock::new);
 	}
 
 	// Start of user code block custom blocks

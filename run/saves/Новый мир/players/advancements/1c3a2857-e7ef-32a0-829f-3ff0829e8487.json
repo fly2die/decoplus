@@ -1,0 +1,39 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-10-21 14:14:58 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/white_concrete_slab": {
+    "criteria": {
+      "has_white_concrete": "2026-10-21 14:15:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-10-21 14:15:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_stairs": {
+    "criteria": {
+      "has_white_concrete": "2026-10-21 14:15:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-10-21 14:15:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-21 14:14:58 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}

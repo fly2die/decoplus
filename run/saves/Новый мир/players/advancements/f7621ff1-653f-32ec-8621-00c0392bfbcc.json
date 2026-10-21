@@ -1,0 +1,75 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-10-20 23:56:26 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/purple_wool_slab": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 23:56:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool_stairs": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 23:56:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_slab": {
+    "criteria": {
+      "has_white_concrete": "2026-10-20 23:56:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-10-20 23:56:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_stairs": {
+    "criteria": {
+      "has_white_concrete": "2026-10-20 23:56:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-10-20 23:56:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-20 23:56:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-10-20 23:56:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 23:56:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 23:56:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2026-10-20 23:56:37 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}

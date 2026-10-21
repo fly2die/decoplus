@@ -1,0 +1,43 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1728,
+      "minecraft:time_since_rest": 6750,
+      "minecraft:walk_one_cm": 27794,
+      "minecraft:total_world_time": 6759,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 15713,
+      "minecraft:crouch_one_cm": 105,
+      "minecraft:sneak_time": 40,
+      "minecraft:play_time": 6750,
+      "minecraft:jump": 9,
+      "minecraft:time_since_death": 6750
+    },
+    "minecraft:used": {
+      "minecraft:light_gray_concrete_stairs": 3,
+      "minecraft:gray_wool_slab": 22,
+      "minecraft:white_concrete_stairs": 14,
+      "minecraft:gray_concrete_stairs": 7,
+      "minecraft:white_concrete": 28,
+      "minecraft:poplar_planks": 75,
+      "minecraft:light_gray_wool_slab": 7,
+      "decoplus:televisor": 5,
+      "decoplus:imonitor": 2,
+      "decoplus:vmonitor": 1,
+      "minecraft:pale_oak_wood": 26,
+      "minecraft:stripped_pale_oak_log": 71,
+      "minecraft:pale_oak_planks": 77,
+      "decoplus:monitor": 3,
+      "decoplus:nuke": 1,
+      "decoplus:washer": 1,
+      "decoplus:computer": 1,
+      "decoplus:electric_stove": 2,
+      "decoplus:smart_tv": 11,
+      "decoplus:pad": 1,
+      "decoplus:laptop": 1,
+      "minecraft:gray_concrete": 27,
+      "decoplus:fridge": 2
+    }
+  },
+  "DataVersion": 5023
+}

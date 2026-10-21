@@ -25,6 +25,9 @@ public class DecoplusModItems {
 	public static Item NUKE;
 	public static Item WASHER;
 	public static Item ELECTRIC_STOVE;
+	public static Item FRIDGE;
+	public static Item TELEVISOR;
+	public static Item SMART_TV;
 
 	public static void load() {
 		LAPTOP = block(DecoplusModBlocks.LAPTOP, "laptop");
@@ -36,6 +39,9 @@ public class DecoplusModItems {
 		NUKE = block(DecoplusModBlocks.NUKE, "nuke");
 		WASHER = block(DecoplusModBlocks.WASHER, "washer");
 		ELECTRIC_STOVE = block(DecoplusModBlocks.ELECTRIC_STOVE, "electric_stove");
+		FRIDGE = block(DecoplusModBlocks.FRIDGE, "fridge");
+		TELEVISOR = block(DecoplusModBlocks.TELEVISOR, "televisor");
+		SMART_TV = block(DecoplusModBlocks.SMART_TV, "smart_tv");
 	}
 
 	// Start of user code block custom items

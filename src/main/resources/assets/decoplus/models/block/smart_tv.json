@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/smart_tv",
+  "textures": {
+    "all": "decoplus:block/smart_tv",
+    "particle": "decoplus:block/smart_tv",
+    "0": "decoplus:block/smart_tv"
+  }
+}

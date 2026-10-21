@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "decoplus:block/televisor"
+    },
+    "facing=east": {
+      "model": "decoplus:block/televisor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "decoplus:block/televisor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "decoplus:block/televisor",
+      "y": 270
+    }
+  }
+}

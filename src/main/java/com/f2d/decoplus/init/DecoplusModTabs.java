@@ -29,6 +29,9 @@ public class DecoplusModTabs {
 					tabData.accept(DecoplusModBlocks.NUKE.asItem());
 					tabData.accept(DecoplusModBlocks.WASHER.asItem());
 					tabData.accept(DecoplusModBlocks.ELECTRIC_STOVE.asItem());
+					tabData.accept(DecoplusModBlocks.FRIDGE.asItem());
+					tabData.accept(DecoplusModBlocks.TELEVISOR.asItem());
+					tabData.accept(DecoplusModBlocks.SMART_TV.asItem());
 				}).build());
 	}
 }

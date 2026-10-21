@@ -1,0 +1,9 @@
+{
+  "parent": "decoplus:custom/televisor",
+  "textures": {
+    "all": "decoplus:block/televisor",
+    "particle": "decoplus:block/televisor",
+    "0": "decoplus:block/televisor",
+    "1": "decoplus:block/televisor_display_00"
+  }
+}
