@@ -2,10 +2,30 @@
 
 ## Setup
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are 
 
-## License
+LICENSE 
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+All Rights Reserved
 
-LICENSE
+Copyright (c) 2026 F2D
+
+This project, including its source code, compiled binaries, textures, models,
+sounds, and any other assets (the "Software"), is provided for personal
+entertainment use only.
+
+You may not, without express written permission from the copyright holder:
+
+1. Redistribute, reupload, mirror, rehost, or otherwise provide the Software,
+   in whole or in part, in any form (source or compiled), to any third party.
+2. Modify, adapt, translate, or create derivative works based on the Software.
+3. Use any part of the Software's code, assets, or unique implementation
+   in another project.
+4. Sell, sublicense, rent, or monetize the Software in any way.
+5. Remove or alter any copyright notices, author credits, or license notices
+   from the Software.
+
+The Software is provided "as is", without warranty of any kind, express or
+implied.
+
+All rights not expressly granted here are reserved by the copyright holder.
