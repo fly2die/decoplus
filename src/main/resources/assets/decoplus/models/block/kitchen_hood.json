@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/kitchen_hood",
+  "textures": {
+    "all": "decoplus:block/kitchen_hood",
+    "particle": "decoplus:block/kitchen_hood",
+    "0": "decoplus:block/kitchen_hood"
+  }
+}

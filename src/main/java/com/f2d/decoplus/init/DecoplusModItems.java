@@ -28,6 +28,9 @@ public class DecoplusModItems {
 	public static Item FRIDGE;
 	public static Item TELEVISOR;
 	public static Item SMART_TV;
+	public static Item KITCHEN_HOOD;
+	public static Item KITCHEN_SINK;
+	public static Item SINK;
 
 	public static void load() {
 		LAPTOP = block(DecoplusModBlocks.LAPTOP, "laptop");
@@ -42,6 +45,9 @@ public class DecoplusModItems {
 		FRIDGE = block(DecoplusModBlocks.FRIDGE, "fridge");
 		TELEVISOR = block(DecoplusModBlocks.TELEVISOR, "televisor");
 		SMART_TV = block(DecoplusModBlocks.SMART_TV, "smart_tv");
+		KITCHEN_HOOD = block(DecoplusModBlocks.KITCHEN_HOOD, "kitchen_hood");
+		KITCHEN_SINK = block(DecoplusModBlocks.KITCHEN_SINK, "kitchen_sink");
+		SINK = block(DecoplusModBlocks.SINK, "sink");
 	}
 
 	// Start of user code block custom items

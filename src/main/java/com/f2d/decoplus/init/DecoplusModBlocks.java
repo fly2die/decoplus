@@ -28,6 +28,9 @@ public class DecoplusModBlocks {
 	public static Block FRIDGE;
 	public static Block TELEVISOR;
 	public static Block SMART_TV;
+	public static Block KITCHEN_HOOD;
+	public static Block KITCHEN_SINK;
+	public static Block SINK;
 
 	public static void load() {
 		LAPTOP = register("laptop", LaptopBlock::new);
@@ -42,6 +45,9 @@ public class DecoplusModBlocks {
 		FRIDGE = register("fridge", FridgeBlock::new);
 		TELEVISOR = register("televisor", TelevisorBlock::new);
 		SMART_TV = register("smart_tv", SmartTVBlock::new);
+		KITCHEN_HOOD = register("kitchen_hood", KitchenHoodBlock::new);
+		KITCHEN_SINK = register("kitchen_sink", KitchenSinkBlock::new);
+		SINK = register("sink", SinkBlock::new);
 	}
 
 	// Start of user code block custom blocks

@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:white_banner": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 412,
+      "minecraft:time_since_rest": 496,
+      "minecraft:walk_one_cm": 2752,
+      "minecraft:total_world_time": 503,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 496,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 496
+    },
+    "minecraft:used": {
+      "decoplus:nuke": 1,
+      "minecraft:white_concrete_stairs": 1,
+      "decoplus:kitchen_sink": 1
+    }
+  },
+  "DataVersion": 5023
+}

@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 548,
+      "minecraft:time_since_rest": 1421,
+      "minecraft:walk_one_cm": 6476,
+      "minecraft:total_world_time": 1517,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 129,
+      "minecraft:crouch_one_cm": 115,
+      "minecraft:sneak_time": 31,
+      "minecraft:play_time": 1421,
+      "minecraft:jump": 14,
+      "minecraft:time_since_death": 1421
+    },
+    "minecraft:used": {
+      "decoplus:sink": 1,
+      "minecraft:water_bucket": 3,
+      "minecraft:bucket": 2,
+      "decoplus:kitchen_sink": 1
+    }
+  },
+  "DataVersion": 5023
+}

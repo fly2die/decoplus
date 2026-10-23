@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/sink",
+  "textures": {
+    "all": "decoplus:block/sink",
+    "particle": "decoplus:block/sink",
+    "0": "decoplus:block/sink"
+  }
+}

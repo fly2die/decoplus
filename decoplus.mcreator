@@ -213,6 +213,57 @@
           "src/main/resources/assets/decoplus/items/smart_tv.json"
         ]
       }
+    },
+    {
+      "name": "KitchenHood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kitchen_hood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/loot_table/blocks/kitchen_hood.json",
+          "src/main/java/com/f2d/decoplus/block/KitchenHoodBlock.java",
+          "src/main/resources/assets/decoplus/blockstates/kitchen_hood.json",
+          "src/main/resources/assets/decoplus/models/block/kitchen_hood.json",
+          "src/main/resources/assets/decoplus/models/item/kitchen_hood.json",
+          "src/main/resources/assets/decoplus/items/kitchen_hood.json"
+        ]
+      }
+    },
+    {
+      "name": "KitchenSink",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kitchen_sink",
+      "metadata": {
+        "files": [
+          "src/main/java/com/f2d/decoplus/block/KitchenSinkBlock.java",
+          "src/main/resources/assets/decoplus/blockstates/kitchen_sink.json",
+          "src/main/resources/assets/decoplus/models/block/kitchen_sink.json",
+          "src/main/resources/assets/decoplus/items/kitchen_sink.json",
+          "src/main/resources/data/decoplus/loot_table/blocks/kitchen_sink.json",
+          "src/main/resources/assets/decoplus/models/item/kitchen_sink.json"
+        ]
+      }
+    },
+    {
+      "name": "Sink",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sink",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/loot_table/blocks/sink.json",
+          "src/main/resources/assets/decoplus/models/block/sink.json",
+          "src/main/resources/assets/decoplus/items/sink.json",
+          "src/main/resources/assets/decoplus/blockstates/sink.json",
+          "src/main/java/com/f2d/decoplus/block/SinkBlock.java",
+          "src/main/resources/assets/decoplus/models/item/sink.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -226,12 +277,15 @@
       "Monitor",
       "Computer",
       "Pad",
+      "SmartTV",
+      "Televisor",
       "Nuke",
       "Washer",
       "ElectricStove",
       "Fridge",
-      "Televisor",
-      "SmartTV"
+      "KitchenHood",
+      "KitchenSink",
+      "Sink"
     ]
   },
   "language_map": {
@@ -248,7 +302,10 @@
       "item.decoplus.electric_stove": "Electric Stove",
       "item.decoplus.fridge": "Fridge",
       "item.decoplus.televisor": "Televisor",
-      "item.decoplus.smart_tv": "Smart TV"
+      "item.decoplus.smart_tv": "Smart TV",
+      "item.decoplus.kitchen_hood": "Kitchen Hood",
+      "item.decoplus.kitchen_sink": "Kitchen Sink",
+      "item.decoplus.sink": "Sink"
     }
   },
   "metadata": {

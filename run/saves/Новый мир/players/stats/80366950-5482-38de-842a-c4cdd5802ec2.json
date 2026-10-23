@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:poplar_planks": 22,
+      "minecraft:note_block": 8,
+      "decoplus:smart_tv": 2,
+      "decoplus:televisor": 3,
+      "minecraft:jukebox": 2,
+      "minecraft:white_banner": 6,
+      "decoplus:kitchen_hood": 1,
+      "minecraft:pale_oak_wood": 4
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1521,
+      "minecraft:time_since_rest": 2154,
+      "minecraft:walk_one_cm": 12071,
+      "minecraft:total_world_time": 2180,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 585,
+      "minecraft:crouch_one_cm": 785,
+      "minecraft:sneak_time": 172,
+      "minecraft:play_time": 2154,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 2154
+    }
+  },
+  "DataVersion": 5023
+}

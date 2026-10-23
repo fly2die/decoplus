@@ -26,12 +26,15 @@ public class DecoplusModTabs {
 					tabData.accept(DecoplusModBlocks.MONITOR.asItem());
 					tabData.accept(DecoplusModBlocks.COMPUTER.asItem());
 					tabData.accept(DecoplusModBlocks.PAD.asItem());
+					tabData.accept(DecoplusModBlocks.SMART_TV.asItem());
+					tabData.accept(DecoplusModBlocks.TELEVISOR.asItem());
 					tabData.accept(DecoplusModBlocks.NUKE.asItem());
 					tabData.accept(DecoplusModBlocks.WASHER.asItem());
 					tabData.accept(DecoplusModBlocks.ELECTRIC_STOVE.asItem());
 					tabData.accept(DecoplusModBlocks.FRIDGE.asItem());
-					tabData.accept(DecoplusModBlocks.TELEVISOR.asItem());
-					tabData.accept(DecoplusModBlocks.SMART_TV.asItem());
+					tabData.accept(DecoplusModBlocks.KITCHEN_HOOD.asItem());
+					tabData.accept(DecoplusModBlocks.KITCHEN_SINK.asItem());
+					tabData.accept(DecoplusModBlocks.SINK.asItem());
 				}).build());
 	}
 }

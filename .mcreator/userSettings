@@ -4,7 +4,11 @@
   "workspacePanelSortAscending": true,
   "projectBrowserState": {
     "expandedPaths": [
-      "[, Deco+]"
+      "[, Deco+]",
+      "[, Deco+, Source (Gradle)]",
+      "[, Deco+, Source (Gradle), C:\\Users\\Fly2Die\\Documents\\My Mods\\deco-plus-mc-26.3\\src\\main\\java\\com]",
+      "[, Deco+, Source (Gradle), C:\\Users\\Fly2Die\\Documents\\My Mods\\deco-plus-mc-26.3\\src\\main\\java\\com, C:\\Users\\Fly2Die\\Documents\\My Mods\\deco-plus-mc-26.3\\src\\main\\java\\com\\f2d]",
+      "[, Deco+, Source (Gradle), C:\\Users\\Fly2Die\\Documents\\My Mods\\deco-plus-mc-26.3\\src\\main\\java\\com, C:\\Users\\Fly2Die\\Documents\\My Mods\\deco-plus-mc-26.3\\src\\main\\java\\com\\f2d, C:\\Users\\Fly2Die\\Documents\\My Mods\\deco-plus-mc-26.3\\src\\main\\java\\com\\f2d\\decoplus]"
     ]
   },
   "leftDockState": {

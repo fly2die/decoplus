@@ -1,0 +1,93 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-10-23 23:51:57 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-10-23 23:52:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/poplar_slab": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/poplar_stairs": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-23 23:51:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/poplar_fence": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/poplar_sign": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-10-23 23:52:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/poplar_button": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/poplar_door": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/poplar_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/poplar_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/poplar_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-10-23 23:52:04 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}

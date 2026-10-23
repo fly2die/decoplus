@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/kitchen_sink",
+  "textures": {
+    "all": "decoplus:block/kitchen_sink",
+    "particle": "decoplus:block/kitchen_sink",
+    "0": "decoplus:block/kitchen_sink"
+  }
+}
