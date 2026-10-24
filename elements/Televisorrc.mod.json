@@ -1,0 +1,29 @@
+{
+  "_fv": 91,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "",
+      "",
+      "",
+      "",
+      "CUSTOM:Displayboard",
+      "",
+      "",
+      "Blocks.IRON_BLOCK",
+      ""
+    ],
+    "recipeReturnStack": "CUSTOM:Televisor",
+    "name": "televisorrc",
+    "namespace": "mod"
+  }
+}

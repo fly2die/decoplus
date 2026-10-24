@@ -13,6 +13,9 @@ import net.minecraft.core.registries.Registries;
 
 import java.util.function.Function;
 
+import com.f2d.decoplus.item.ProcessorItem;
+import com.f2d.decoplus.item.MotherboardItem;
+import com.f2d.decoplus.item.DisplayboardItem;
 import com.f2d.decoplus.DecoplusMod;
 
 public class DecoplusModItems {
@@ -33,7 +36,10 @@ public class DecoplusModItems {
 	public static Item SINK;
 	public static Item CONSOLE_XCRAFTX;
 	public static Item CONSOLE_PLAYCRAFT_5;
-	public static Item IRON_TABLE;
+	public static Item TOILET;
+	public static Item PROCESSOR;
+	public static Item MOTHERBOARD;
+	public static Item DISPLAYBOARD;
 
 	public static void load() {
 		LAPTOP = block(DecoplusModBlocks.LAPTOP, "laptop");
@@ -53,7 +59,10 @@ public class DecoplusModItems {
 		SINK = block(DecoplusModBlocks.SINK, "sink");
 		CONSOLE_XCRAFTX = block(DecoplusModBlocks.CONSOLE_XCRAFTX, "console_xcraftx");
 		CONSOLE_PLAYCRAFT_5 = block(DecoplusModBlocks.CONSOLE_PLAYCRAFT_5, "console_playcraft_5");
-		IRON_TABLE = block(DecoplusModBlocks.IRON_TABLE, "iron_table");
+		TOILET = block(DecoplusModBlocks.TOILET, "toilet");
+		PROCESSOR = register("processor", ProcessorItem::new);
+		MOTHERBOARD = register("motherboard", MotherboardItem::new);
+		DISPLAYBOARD = register("displayboard", DisplayboardItem::new);
 	}
 
 	// Start of user code block custom items

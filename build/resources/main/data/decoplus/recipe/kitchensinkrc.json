@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cb"
+  ],
+  "key": {
+    "a": "minecraft:bucket",
+    "b": "minecraft:iron_ingot",
+    "c": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "decoplus:kitchen_sink",
+    "count": 1
+  }
+}

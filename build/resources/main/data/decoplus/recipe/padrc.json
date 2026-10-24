@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": "decoplus:displayboard",
+    "b": "decoplus:processor",
+    "c": "minecraft:iron_ingot",
+    "d": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "decoplus:pad",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cbc"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:diamond",
+    "c": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "decoplus:processor",
+    "count": 2
+  }
+}

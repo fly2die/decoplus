@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "bb"
+  ],
+  "key": {
+    "a": "minecraft:bucket",
+    "b": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "decoplus:sink",
+    "count": 1
+  }
+}

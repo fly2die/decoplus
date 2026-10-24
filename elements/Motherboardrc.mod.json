@@ -1,0 +1,29 @@
+{
+  "_fv": 91,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "Items.COPPER_INGOT",
+      "Items.AMETHYST_SHARD",
+      "Items.COPPER_INGOT",
+      "Items.COPPER_INGOT",
+      "Items.EMERALD",
+      "Items.COPPER_INGOT",
+      "Items.COPPER_INGOT",
+      "Items.AMETHYST_SHARD",
+      "Items.COPPER_INGOT"
+    ],
+    "recipeReturnStack": "CUSTOM:Motherboard",
+    "name": "motherboardrc",
+    "namespace": "mod"
+  }
+}

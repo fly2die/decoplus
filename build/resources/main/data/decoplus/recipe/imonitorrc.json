@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " de"
+  ],
+  "key": {
+    "a": "decoplus:processor",
+    "b": "decoplus:displayboard",
+    "c": "decoplus:motherboard",
+    "d": "minecraft:iron_ingot",
+    "e": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "decoplus:imonitor",
+    "count": 1
+  }
+}

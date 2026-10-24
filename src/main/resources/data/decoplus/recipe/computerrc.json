@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "acc",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "decoplus:motherboard",
+    "c": "decoplus:processor"
+  },
+  "result": {
+    "id": "decoplus:computer",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " cd"
+  ],
+  "key": {
+    "a": "decoplus:motherboard",
+    "b": "decoplus:displayboard",
+    "c": "minecraft:iron_ingot",
+    "d": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "decoplus:monitor",
+    "count": 1
+  }
+}

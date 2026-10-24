@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "ba",
+    "aa"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:hopper"
+  },
+  "result": {
+    "id": "decoplus:toilet",
+    "count": 1
+  }
+}

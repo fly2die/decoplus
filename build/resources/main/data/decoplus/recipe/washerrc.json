@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "decoplus:motherboard",
+    "c": "minecraft:glass"
+  },
+  "result": {
+    "id": "decoplus:washer",
+    "count": 1
+  }
+}

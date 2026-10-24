@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/toilet",
+  "textures": {
+    "all": "decoplus:block/toilet",
+    "particle": "decoplus:block/toilet",
+    "0": "decoplus:block/toilet"
+  }
+}

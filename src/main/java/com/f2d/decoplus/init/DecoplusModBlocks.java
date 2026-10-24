@@ -33,7 +33,7 @@ public class DecoplusModBlocks {
 	public static Block SINK;
 	public static Block CONSOLE_XCRAFTX;
 	public static Block CONSOLE_PLAYCRAFT_5;
-	public static Block IRON_TABLE;
+	public static Block TOILET;
 
 	public static void load() {
 		LAPTOP = register("laptop", LaptopBlock::new);
@@ -53,7 +53,7 @@ public class DecoplusModBlocks {
 		SINK = register("sink", SinkBlock::new);
 		CONSOLE_XCRAFTX = register("console_xcraftx", ConsoleXcraftxBlock::new);
 		CONSOLE_PLAYCRAFT_5 = register("console_playcraft_5", ConsolePlaycraft5Block::new);
-		IRON_TABLE = register("iron_table", IronTableBlock::new);
+		TOILET = register("toilet", ToiletBlock::new);
 	}
 
 	// Start of user code block custom blocks

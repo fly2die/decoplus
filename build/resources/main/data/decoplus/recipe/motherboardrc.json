@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:copper_ingot",
+    "b": "minecraft:amethyst_shard",
+    "c": "minecraft:emerald"
+  },
+  "result": {
+    "id": "decoplus:motherboard",
+    "count": 2
+  }
+}

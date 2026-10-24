@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ab",
+    "ab"
+  ],
+  "key": {
+    "a": "decoplus:motherboard",
+    "b": "decoplus:processor"
+  },
+  "result": {
+    "id": "decoplus:console_xcraftx",
+    "count": 1
+  }
+}

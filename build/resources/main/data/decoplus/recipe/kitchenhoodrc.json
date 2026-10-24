@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": "decoplus:motherboard",
+    "b": "minecraft:iron_ingot",
+    "c": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "decoplus:kitchen_hood",
+    "count": 1
+  }
+}

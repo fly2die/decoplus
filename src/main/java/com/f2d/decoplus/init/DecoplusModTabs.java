@@ -37,7 +37,10 @@ public class DecoplusModTabs {
 					tabData.accept(DecoplusModBlocks.KITCHEN_HOOD.asItem());
 					tabData.accept(DecoplusModBlocks.KITCHEN_SINK.asItem());
 					tabData.accept(DecoplusModBlocks.SINK.asItem());
-					tabData.accept(DecoplusModBlocks.IRON_TABLE.asItem());
+					tabData.accept(DecoplusModBlocks.TOILET.asItem());
+					tabData.accept(DecoplusModItems.PROCESSOR);
+					tabData.accept(DecoplusModItems.MOTHERBOARD);
+					tabData.accept(DecoplusModItems.DISPLAYBOARD);
 				}).build());
 	}
 }

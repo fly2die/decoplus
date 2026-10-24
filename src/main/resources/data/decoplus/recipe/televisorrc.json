@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "decoplus:displayboard",
+    "b": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "decoplus:televisor",
+    "count": 1
+  }
+}

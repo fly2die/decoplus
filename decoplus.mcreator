@@ -300,19 +300,313 @@
       }
     },
     {
-      "name": "IronTable",
+      "name": "Toilet",
       "type": "block",
       "compiles": true,
       "locked_code": false,
-      "registry_name": "iron_table",
+      "registry_name": "toilet",
       "metadata": {
         "files": [
-          "src/main/resources/data/decoplus/loot_table/blocks/iron_table.json",
-          "src/main/resources/assets/decoplus/models/item/iron_table.json",
-          "src/main/resources/assets/decoplus/models/block/iron_table.json",
-          "src/main/resources/assets/decoplus/blockstates/iron_table.json",
-          "src/main/resources/assets/decoplus/items/iron_table.json",
-          "src/main/java/com/f2d/decoplus/block/IronTableBlock.java"
+          "src/main/resources/assets/decoplus/blockstates/toilet.json",
+          "src/main/resources/assets/decoplus/items/toilet.json",
+          "src/main/resources/data/decoplus/loot_table/blocks/toilet.json",
+          "src/main/resources/assets/decoplus/models/block/toilet.json",
+          "src/main/resources/assets/decoplus/models/item/toilet.json",
+          "src/main/java/com/f2d/decoplus/block/ToiletBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Processor",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "processor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/decoplus/models/item/processor.json",
+          "src/main/java/com/f2d/decoplus/item/ProcessorItem.java",
+          "src/main/resources/assets/decoplus/items/processor.json"
+        ]
+      }
+    },
+    {
+      "name": "Motherboard",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "motherboard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/decoplus/items/motherboard.json",
+          "src/main/java/com/f2d/decoplus/item/MotherboardItem.java",
+          "src/main/resources/assets/decoplus/models/item/motherboard.json"
+        ]
+      }
+    },
+    {
+      "name": "Displayboard",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "displayboard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/decoplus/items/displayboard.json",
+          "src/main/resources/assets/decoplus/models/item/displayboard.json",
+          "src/main/java/com/f2d/decoplus/item/DisplayboardItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Processorrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "processorrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/processorrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Motherboardrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "motherboardrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/motherboardrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Displayboardrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "displayboardrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/displayboardrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Laptoprc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "laptoprc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/laptoprc.json"
+        ]
+      }
+    },
+    {
+      "name": "Monitorrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "monitorrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/monitorrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Computerrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "computerrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/computerrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Imonitorrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "imonitorrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/imonitorrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Vmonitorrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vmonitorrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/vmonitorrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Padrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "padrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/padrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Nukerc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nukerc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/nukerc.json"
+        ]
+      }
+    },
+    {
+      "name": "Washerrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "washerrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/washerrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Electricstoverc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electricstoverc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/electricstoverc.json"
+        ]
+      }
+    },
+    {
+      "name": "Fridgerc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fridgerc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/fridgerc.json"
+        ]
+      }
+    },
+    {
+      "name": "Televisorrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "televisorrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/televisorrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Smarttvrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smarttvrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/smarttvrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Kitchenhoodrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kitchenhoodrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/kitchenhoodrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Kitchensinkrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kitchensinkrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/kitchensinkrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Sinkrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sinkrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/sinkrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Consolexcraftxrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "consolexcraftxrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/consolexcraftxrc.json"
+        ]
+      }
+    },
+    {
+      "name": "Consoleplaycraft5rc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "consoleplaycraft_5rc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/consoleplaycraft_5rc.json"
+        ]
+      }
+    },
+    {
+      "name": "Toiletrc",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toiletrc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/recipe/toiletrc.json"
         ]
       }
     }
@@ -339,7 +633,10 @@
       "KitchenHood",
       "KitchenSink",
       "Sink",
-      "IronTable"
+      "Toilet",
+      "Processor",
+      "Motherboard",
+      "Displayboard"
     ]
   },
   "language_map": {
@@ -362,7 +659,10 @@
       "item.decoplus.sink": "Sink",
       "item.decoplus.console_xcraftx": "Console Xcraftx",
       "item.decoplus.console_playcraft_5": "Console Playcraft 5",
-      "item.decoplus.iron_table": "Iron Table"
+      "item.decoplus.toilet": "Toilet",
+      "item.decoplus.processor": "Processor",
+      "item.decoplus.motherboard": "Motherboard",
+      "item.decoplus.displayboard": "Displayboard"
     }
   },
   "metadata": {
@@ -399,11 +699,14 @@
   "workspaceSettings": {
     "modid": "decoplus",
     "modName": "Deco+",
-    "version": "5.1.0",
+    "version": "5.1.1",
+    "description": "Minecraft decorations in a Modern Style, with a Vanilla-like note. Сomputers, laptops, consoles, appliances and more!",
     "author": "F2D",
     "websiteURL": "https://modrinth.com/user/FLY2DIE",
     "license": "All Rights Reserved",
     "serverSideOnly": false,
+    "modPicture": "icon-10",
+    "modIcon": "icon-10",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],

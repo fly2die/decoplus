@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": "decoplus:processor",
+    "b": "decoplus:motherboard"
+  },
+  "result": {
+    "id": "decoplus:console_playcraft_5",
+    "count": 1
+  }
+}

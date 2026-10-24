@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:lapis_lazuli",
+    "c": "minecraft:diamond"
+  },
+  "result": {
+    "id": "decoplus:displayboard",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "decoplus:motherboard"
+  },
+  "result": {
+    "id": "decoplus:nuke",
+    "count": 1
+  }
+}

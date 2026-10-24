@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": "decoplus:displayboard",
+    "b": "decoplus:televisor",
+    "c": "decoplus:motherboard"
+  },
+  "result": {
+    "id": "decoplus:smart_tv",
+    "count": 1
+  }
+}

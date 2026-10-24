@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "decoplus:displayboard",
+    "b": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "decoplus:vmonitor",
+    "count": 1
+  }
+}

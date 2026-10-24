@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": "minecraft:iron_block",
+    "b": "decoplus:motherboard"
+  },
+  "result": {
+    "id": "decoplus:fridge",
+    "count": 1
+  }
+}

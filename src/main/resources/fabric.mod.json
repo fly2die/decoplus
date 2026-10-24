@@ -1,16 +1,18 @@
 {
   "schemaVersion": 1,
   "id": "decoplus",
-  "version": "5.0.3",
+  "version": "5.1.1",
   "name": "Deco+",
+  "description": "Minecraft decorations in a Modern Style, with a Vanilla-like note. Сomputers, laptops, consoles, appliances and more!",
   "authors": [
     "F2D"
   ],
   "contact": {
-    "homepage": "https://mcreator.net",
+    "homepage": "https://modrinth.com/user/FLY2DIE",
     "sources": ""
   },
   "license": "All Rights Reserved",
+  "icon": "logo.png",
   "environment": "*",
   "entrypoints": {
     "main": [
