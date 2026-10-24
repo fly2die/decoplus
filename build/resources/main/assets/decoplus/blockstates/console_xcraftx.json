@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "decoplus:block/console_xcraftx"
+    },
+    "facing=east": {
+      "model": "decoplus:block/console_xcraftx",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "decoplus:block/console_xcraftx",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "decoplus:block/console_xcraftx",
+      "y": 270
+    }
+  }
+}

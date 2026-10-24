@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 264,
+      "minecraft:time_since_rest": 571,
+      "minecraft:walk_one_cm": 3500,
+      "minecraft:total_world_time": 581,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 910,
+      "minecraft:play_time": 571,
+      "minecraft:jump": 13,
+      "minecraft:time_since_death": 571
+    },
+    "minecraft:used": {
+      "decoplus:console_xcraftx": 5
+    }
+  },
+  "DataVersion": 5023
+}

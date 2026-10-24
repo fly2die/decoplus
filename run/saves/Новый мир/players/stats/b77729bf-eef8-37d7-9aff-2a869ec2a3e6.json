@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "decoplus:breadbasket": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 423,
+      "minecraft:walk_one_cm": 2243,
+      "minecraft:total_world_time": 431,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 132,
+      "minecraft:crouch_one_cm": 8,
+      "minecraft:sneak_time": 19,
+      "minecraft:play_time": 423,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 423
+    }
+  },
+  "DataVersion": 5023
+}

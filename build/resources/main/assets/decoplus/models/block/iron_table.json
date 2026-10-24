@@ -1,0 +1,8 @@
+{
+  "parent": "decoplus:custom/iron_table",
+  "textures": {
+    "all": "decoplus:block/iron_table",
+    "particle": "decoplus:block/iron_table",
+    "0": "decoplus:block/iron_table"
+  }
+}

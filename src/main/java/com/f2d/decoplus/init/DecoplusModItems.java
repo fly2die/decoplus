@@ -31,6 +31,9 @@ public class DecoplusModItems {
 	public static Item KITCHEN_HOOD;
 	public static Item KITCHEN_SINK;
 	public static Item SINK;
+	public static Item CONSOLE_XCRAFTX;
+	public static Item CONSOLE_PLAYCRAFT_5;
+	public static Item IRON_TABLE;
 
 	public static void load() {
 		LAPTOP = block(DecoplusModBlocks.LAPTOP, "laptop");
@@ -48,6 +51,9 @@ public class DecoplusModItems {
 		KITCHEN_HOOD = block(DecoplusModBlocks.KITCHEN_HOOD, "kitchen_hood");
 		KITCHEN_SINK = block(DecoplusModBlocks.KITCHEN_SINK, "kitchen_sink");
 		SINK = block(DecoplusModBlocks.SINK, "sink");
+		CONSOLE_XCRAFTX = block(DecoplusModBlocks.CONSOLE_XCRAFTX, "console_xcraftx");
+		CONSOLE_PLAYCRAFT_5 = block(DecoplusModBlocks.CONSOLE_PLAYCRAFT_5, "console_playcraft_5");
+		IRON_TABLE = block(DecoplusModBlocks.IRON_TABLE, "iron_table");
 	}
 
 	// Start of user code block custom items

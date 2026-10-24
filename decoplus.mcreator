@@ -264,6 +264,57 @@
           "src/main/resources/assets/decoplus/models/item/sink.json"
         ]
       }
+    },
+    {
+      "name": "ConsoleXcraftx",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "console_xcraftx",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/decoplus/items/console_xcraftx.json",
+          "src/main/resources/assets/decoplus/models/block/console_xcraftx.json",
+          "src/main/resources/assets/decoplus/blockstates/console_xcraftx.json",
+          "src/main/java/com/f2d/decoplus/block/ConsoleXcraftxBlock.java",
+          "src/main/resources/assets/decoplus/models/item/console_xcraftx.json",
+          "src/main/resources/data/decoplus/loot_table/blocks/console_xcraftx.json"
+        ]
+      }
+    },
+    {
+      "name": "ConsolePlaycraft5",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "console_playcraft_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/decoplus/models/item/console_playcraft_5.json",
+          "src/main/resources/assets/decoplus/models/block/console_playcraft_5.json",
+          "src/main/resources/assets/decoplus/items/console_playcraft_5.json",
+          "src/main/java/com/f2d/decoplus/block/ConsolePlaycraft5Block.java",
+          "src/main/resources/data/decoplus/loot_table/blocks/console_playcraft_5.json",
+          "src/main/resources/assets/decoplus/blockstates/console_playcraft_5.json"
+        ]
+      }
+    },
+    {
+      "name": "IronTable",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decoplus/loot_table/blocks/iron_table.json",
+          "src/main/resources/assets/decoplus/models/item/iron_table.json",
+          "src/main/resources/assets/decoplus/models/block/iron_table.json",
+          "src/main/resources/assets/decoplus/blockstates/iron_table.json",
+          "src/main/resources/assets/decoplus/items/iron_table.json",
+          "src/main/java/com/f2d/decoplus/block/IronTableBlock.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -279,13 +330,16 @@
       "Pad",
       "SmartTV",
       "Televisor",
+      "ConsoleXcraftx",
+      "ConsolePlaycraft5",
       "Nuke",
       "Washer",
       "ElectricStove",
       "Fridge",
       "KitchenHood",
       "KitchenSink",
-      "Sink"
+      "Sink",
+      "IronTable"
     ]
   },
   "language_map": {
@@ -305,7 +359,10 @@
       "item.decoplus.smart_tv": "Smart TV",
       "item.decoplus.kitchen_hood": "Kitchen Hood",
       "item.decoplus.kitchen_sink": "Kitchen Sink",
-      "item.decoplus.sink": "Sink"
+      "item.decoplus.sink": "Sink",
+      "item.decoplus.console_xcraftx": "Console Xcraftx",
+      "item.decoplus.console_playcraft_5": "Console Playcraft 5",
+      "item.decoplus.iron_table": "Iron Table"
     }
   },
   "metadata": {
@@ -342,9 +399,9 @@
   "workspaceSettings": {
     "modid": "decoplus",
     "modName": "Deco+",
-    "version": "5.0.3",
+    "version": "5.1.0",
     "author": "F2D",
-    "websiteURL": "https://mcreator.net",
+    "websiteURL": "https://modrinth.com/user/FLY2DIE",
     "license": "All Rights Reserved",
     "serverSideOnly": false,
     "requiredMods": [],
@@ -352,7 +409,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "fabric-26.3",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "https://github.com/fly2die/decoplus",
     "modElementsPackage": "com.f2d.decoplus"
   },
   "mcreatorVersion": 202600341718
